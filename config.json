@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-task-manager",
+      "title": "Persistent Task Manager with SQLite",
+      "description": "Introdução à persistência de dados em Python com SQLite, criando um gerenciador de tarefas no terminal.",
+      "path": "assignments/sqlite-task-manager",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
